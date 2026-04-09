@@ -1,0 +1,7 @@
+{
+  "antiNuke": true,
+  "antiRaid": true,
+  "autoRestore": true,
+  "botProtection": true,
+  "logs": true
+}
